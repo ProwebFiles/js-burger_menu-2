@@ -35,6 +35,8 @@ nav{
     text-transform: uppercase;
     font-weight: bold;
     font-size: 25px;
+    position: relative;
+    z-index: 222;
 }
 
 .menu{
