@@ -115,7 +115,7 @@ nav{
         top: 0;
         flex-direction: column;
         justify-content: center;
-        max-width: 300px;
+        max-width: 200px;
         width: 0px;
         overflow: hidden;
         transition: 0.5s linear;
